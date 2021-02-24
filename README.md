@@ -1,10 +1,1 @@
-# vun.py
-VunPY is a library written for the VunJS to be used in Python.
-
-# Contributing
-
-# Installing and using
-
-# Functions
-
-# TODO
+`This project is current under in development. README.md will be updated once project is done.`
